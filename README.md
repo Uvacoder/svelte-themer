@@ -1,5 +1,5 @@
 # svelte-themer
---
+
 A theming engine for your Svelte apps using CSS Variables, persisted.
 
 ```html
